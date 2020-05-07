@@ -3,19 +3,10 @@ layout: page
 title: Index
 ---
 
-## Ultra - Super fast Jekyll theme 
+### Hi, I'm Amy!
 
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
+I do a lot of programming and data analysis, because it engages and excites me like nothing else. I love taking raw information from interesting sources and sculpting it into useful and beautiful insights. More generally, I love creating things that I can be proud of: things with purpose or intrigue or charm, and things that just make people smile.
 
-### Key features
+I just completed my Master's degree in Astronomy at Western University, where I conducted a spectroscopic study of polycyclic aromatic hydrocarbons in the interstellar medium. That and other projects are listed on my Projects page.
 
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+Having just graduated, I'm looking for a job! If you have one of those, or if you just want to chat about things I've worked on, feel free to get in touch via email or LinkedIn on my Contact page!
