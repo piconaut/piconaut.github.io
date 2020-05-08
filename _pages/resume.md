@@ -45,10 +45,12 @@ McMaster Research in Teaching and Learning Conference. 2015
 
 Western University
 
-- NSERC USRA
-- Pre-thesis award
+- NSERC USRA. 2018
+- Pre-thesis award. 2017
+- Sponsored half of trip to Ottawa for CUPC. 2017
 
 McMaster University
 
-- William McKeon Memorial Academic Grant in Physics
-- $1000 entrance scholarship
+- Sponsored trips to Boston, Halifax, Ottawa, and Warsaw for AAVSO, CUPC, and IPS. 2016 - 2017
+- William McKeon Memorial Academic Grant in Physics. 2015
+- $1000 entrance scholarship. 2014
