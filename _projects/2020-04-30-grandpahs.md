@@ -6,6 +6,10 @@ summary: Conducted spectral fitting of PAH emission from reflection nebulae and 
 category: Research
 ---
 
+### Summary
+
+My Master's project investigated the "grandPAH hypothesis", which is the idea that astronomical populations of polycyclic aromatic hydrocarbons (PAHs), which dominate interstellar mid-infrared emission, constitute a small number of specific PAH species that are preferentially selected by physical conditions. I fitted PAH emission observed by the *Spitzer* space telescope using the NASA Ames PAH IR Spectroscopic Database, and developed a statistical measure for the degree of preference exhibited by a given interstellar object for a given PAH species.
+
 ### Abstract
 
 The mid-infrared (MIR) emission of many interstellar objects is dominated by features at 3.3, 6.2, 7.7, 11.3, and 12.7 μm, which are attributed to polycyclic aromatic hydrocarbons (PAHs). The sites of peak MIR emission in RNe exhibit extremely detailed spectroscopic similarity, suggesting that their emission is dominated by a small set of specific PAH species, called grandPAHs, that are selected on the basis of stability. The grandPAH hypothesis has been reinforced by fitting MIR spectra from these sites with theoretical emission spectra of individual PAH molecules from the NASA Ames PAH IR Spectroscopic Database (PAHdb). Small variations in the relative abundances of PAH species in the derived populations are sufficient to account for spectral differences between objects, and the removal and replacement of these species degrades fit quality, suggesting that they are preferred over other species. We investigate the grandPAH hypothesis in HII regions as well as RNe by quantifying the preference exhibited by any MIR spectrum for any given set of PAHs.
