@@ -6,7 +6,7 @@ summary: Developed a semi-analytic formula for the lifetime of helium-rich stars
 category: Research
 ---
 
-Read the paper on the <a href="https://doi.org/10.1093/mnras/sty2446f" target="_blank">publisher's website</a> or on <a href="https://arxiv.org/abs/1809.01055" target="_blank">ArXiv</a>!
+Read the paper on the <a href="https://doi.org/10.1093/mnras/sty2446" target="_blank">publisher's website</a> or on <a href="https://arxiv.org/abs/1809.01055" target="_blank">ArXiv</a>!
 
 ### Abstract
 
