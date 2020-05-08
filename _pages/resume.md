@@ -7,6 +7,5 @@ title: Resume
 
 ### Education
 
-Master of Science, Astronomy <div style="text-align: right"> your-text-here </div>
+Western University, London: M.Sc., Astronomy <div style="text-align: right">2018 - 2020</div>
 
-Western University, London
