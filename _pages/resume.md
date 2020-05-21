@@ -13,9 +13,9 @@ McMaster University. B.Sc., Integrated Science. 2014 - 2018
 
 ### Research projects
 
-Western University. [Are grandPAHs present in HII regions?](/projects/grandpahs). 2017 - 2020
+Western University. [Are grandPAHs present in HII regions?](/projects/grandpahs) 2017 - 2020
 
-McMaster University. [Simulating globular clusters with He-rich populations.](/projects/globsim). 2017 - 2018
+McMaster University. [Simulating globular clusters with He-rich populations.](/projects/globsim) 2017 - 2018
 
 McMaster University. Making finder charts using AAVSOnet data. 2015 - 2016
 
