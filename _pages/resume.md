@@ -21,6 +21,8 @@ McMaster University. Making finder charts using AAVSOnet data. 2015 - 2016
 
 ### Work experience
 
+Numerade. Educator. 2020 - present
+
 Western University. Graduate research & teaching assistant. 2018 - 2020
 
 McMaster University. MIIETL Student Scholar. 2015 - 2016
