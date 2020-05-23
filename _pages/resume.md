@@ -23,7 +23,7 @@ McMaster University. Making finder charts using AAVSOnet data. 2015 - 2016
 
 Numerade. Educator. 2020 - present
 
-[Online physics & math tutoring](/tutoring). 2018 - present
+[Online physics & math tutoring](/tutoring). 2016 - present
 
 Western University. Graduate research & teaching assistant. 2018 - 2020
 
