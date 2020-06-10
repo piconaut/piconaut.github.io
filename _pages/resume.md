@@ -21,7 +21,7 @@ McMaster University. Making finder charts using AAVSOnet data. 2015 - 2016
 
 ### Work experience
 
-Brainy Education Center. Science Educator. 2020 - present.
+Brainy Education Center. Science Educator. 2020 - present
 
 Numerade. Educator. 2020 - present
 
