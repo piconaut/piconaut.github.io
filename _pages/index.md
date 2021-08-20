@@ -32,3 +32,5 @@ One of them is JCL syntax highlighting for highlight.js:
 //DFSMSG   DD SYSOUT=*
 /*
 </code></pre>
+
+I've made a [demo](/highlightjs-jcl-demo) where you can input JCL and have it highlighted! 
