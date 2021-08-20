@@ -6,7 +6,7 @@ title: Index
 ### Hi, I'm Amy!
 
 Lately I've been making some little mainframe-related web trinkets.
-One of them is JCL syntax highlighting for highlight.js.
+One of them is JCL syntax highlighting for highlight.js, because I might want to write stuff at some point and nothing seems to support syntax highlighting for mainframe languages.
 
 <pre><code id='highlightedCode' class="language-jcl">//AFCPYCNT JOB CLASS=A,MSGCLASS=A,MSGLEVEL=(1,1),NOTIFY=&SYSUID
 //*
