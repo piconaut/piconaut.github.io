@@ -2,7 +2,7 @@
 layout: page
 title: JCL
 ---
-Paste JCL below! [IBM's Sample JCL](https://www.ibm.com/docs/en/zos/2.4.0?topic=apis-examples-jcl) looks pretty good here.
+Paste JCL below! Some <a href="https://www.ibm.com/docs/en/zos/2.4.0?topic=apis-examples-jcl" target="_blank">IBM sample JCL</a> looks pretty good here.
 
 <html>
 <body>
