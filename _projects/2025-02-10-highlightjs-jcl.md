@@ -1,7 +1,11 @@
 ---
-layout: page
-title: JCL
+layout: project
+title: JCL syntax highlighting for highlight.js
+description: JCL syntax highlighting for highlight.js.
+summary: JCL syntax highlighting for highlight.js.
+category: Tools
 ---
+
 Paste JCL below! Some <a href="https://www.ibm.com/docs/en/zos/2.4.0?topic=apis-examples-jcl" target="_blank">IBM sample JCL</a> looks pretty good here.
 
 <html>

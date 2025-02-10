@@ -5,6 +5,10 @@ title: Index
 
 ### Hi, I'm Amy!
 
+I'm a software engineer bringing a cutting-edge data science approach to z/Architecture mainframe & hybrid cloud capacity planning and performance management.
+
+### highlight.js JCL
+
 Lately I've been making some little mainframe-related web trinkets.
 One of them is JCL syntax highlighting for highlight.js:
 
