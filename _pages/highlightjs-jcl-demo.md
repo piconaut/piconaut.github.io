@@ -15,7 +15,7 @@ Paste JCL below! Some <a href="https://www.ibm.com/docs/en/zos/2.4.0?topic=apis-
 </html>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
 <script type="text/javascript" src="./jcl.min.js"></script>
-<script type="text/javascript" src="./gen.js"></script>
+<script type="text/javascript" src="/files/gen.js"></script>
 <script type="text/javascript">
   hljs.highlightAll();
 </script>
