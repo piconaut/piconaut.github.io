@@ -6,8 +6,8 @@ title: Index
 ### Hi, I'm Amy!
 
 I'm a mainframe software engineering consultant with two areas of focus: 
-* Enabling DevOps transformation by migrating z/OS infrastructure products to CI/CD pipelines
-* Bringing a modern data science approach to mainframe & hybrid cloud capacity planning and performance management
+* Bringing a modern data science approach to **mainframe capacity planning and performance management**
+* Enabling **DevOps transformation** by migrating z/OS **infrastructure products** to CI/CD pipelines
 
 Friends: 
 * [neynt](https://neynt.ca/)
